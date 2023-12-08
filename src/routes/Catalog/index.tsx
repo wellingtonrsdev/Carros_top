@@ -1,8 +1,22 @@
+import "./styles.css";
 import Header from "../../Components/Header";
+import SearchBar from "../../Components/SearchBar";
 
 export default function Catalog() {
+  return (
+    <>
+      <Header />
+      <main className="ct-catalog-main">
+        <section id="ct-catalog-section">
+          <div className="ct-search-bar-container">
+            <SearchBar />
+          </div>
 
-    return (
-        <Header />
-    );
+          <div className="ct-catalog-cards-container">
+            <div>teste</div>
+          </div>
+        </section>
+      </main>
+    </>
+  );
 }
