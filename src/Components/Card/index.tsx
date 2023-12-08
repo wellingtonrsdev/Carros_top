@@ -12,8 +12,8 @@ export default function Card() {
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate,
           nisi
         </i>
-        <Button />
       </p>
+      <Button />
     </div>
   );
 }
