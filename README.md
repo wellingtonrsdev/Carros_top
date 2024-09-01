@@ -17,7 +17,7 @@ Com isso foi possível praticar e compreender melhor a estrutura do React, como 
 
 Experimente live demo:
 
-![FrontEnd](https://i.imgur.com/t3Qys0J.gif)
+![FrontEnd](https://i.imgur.com/Y3As50M.gif)
 
 ## Como criar e executar o CarrosTop localmente
 
