@@ -29,7 +29,7 @@ Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fá
 1. Clone o código fonte
 
    ```bash
-    git clone git@github.com:wellingtonrsdev/carros-top.git
+    git clone git@github.com:wellingtonrsdev/Carros_top.git
    ```
 
 2. Abra o terminal dentro da pasta do projeto e rode o comando a seguir para instalar todas as dependências
